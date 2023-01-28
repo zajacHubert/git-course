@@ -1,1 +1,1 @@
-console.log('seconds');
+console.log('second');
