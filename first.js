@@ -1,1 +1,1 @@
-console.log('firsts');
+console.log('first');
