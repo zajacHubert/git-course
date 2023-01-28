@@ -1,2 +1,2 @@
 console.log('first');
-console.log('thirds');
+console.log('third');
